@@ -1,2 +1,2 @@
 # Omni-Food-Website
-Responsive restaurant website (HTML, CSS, JavaScript) built as a Udemy course project, with my own customizations.
+Responsive restaurant landing page built with HTML, CSS, and JavaScript as part of an online Udemy course. Features a mobile navigation menu, sticky header, and smooth-scrolling links.
